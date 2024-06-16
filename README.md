@@ -1,1 +1,1 @@
-# To do list style for adding your personal goals
+# To do list style app for adding your personal goals
